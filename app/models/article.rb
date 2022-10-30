@@ -18,12 +18,12 @@ class Article
       @@all 
     end
 
-    # def author
-    #   @author
-    # end
+    def author
+      @author
+    end
 
-    # def magazine
-    #   @magazine
-    # end
+    def magazine
+      @magazine
+    end
 
 end
